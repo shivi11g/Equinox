@@ -5,4 +5,5 @@ Equinox 3.0 - Embracing the nostalgia This website presents an overview of all t
 We have used Node.js, Express.js for the backend part and HTML CSS and Vanilla JavaScript for the frontend part. We have used MogoDB Database for storing the data. 
 
 client side- npm run
+
 server side- node .\app.js
